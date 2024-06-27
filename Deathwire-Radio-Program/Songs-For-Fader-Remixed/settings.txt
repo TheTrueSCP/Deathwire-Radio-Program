@@ -1,0 +1,4 @@
+[SONG_NAME]_Vocal_Music_Split.mp3
+
+-> Left Channel: Music
+-> Right Channel: Vocals
